@@ -1,0 +1,26 @@
+
+Payments For The Week Ending 03/30/2022: 
+
+Invoice No.: INV_001
+Quantity: 10
+Payment Amount: $2555.00
+
+Invoice No.: INV_002
+Quantity: 9
+Payment Amount: $3852.00
+
+Social Security No.: 2017001806 
+Name in Full: Erroldo McCarthy
+Commission Payment Amount: $2499.995
+
+Social Security No.: 1300067096 
+Name in Full: Tukeisha Brown
+Commission Payment Amount: $4568.67
+
+Social Security No.: 1817001549 
+Name in Full: Kerrone Wilson
+Salaried Payment Amount: $2457.87
+
+Social Security No.: 000111222 
+Name in Full: Kae Smith
+Hourly Payment Amount: $592.8
